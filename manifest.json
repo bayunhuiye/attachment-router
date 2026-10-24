@@ -1,0 +1,9 @@
+{
+  "id": "attachment-router",
+  "name": "笔记素材自动归位",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "启用后新建的笔记，拖入的图片/GIF/视频/其他素材按笔记所在的文件夹镜像归到「所有笔记素材合集/笔记路径/笔记名笔记素材-时间戳/类型/」，文件名保持原样，同名自动加 _1、_2。",
+  "author": "bayunhuiye",
+  "isDesktopOnly": false
+}
